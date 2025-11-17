@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+google-cloud-aiplatform
+google-auth
+adk  # whatever package name ADK uses in docs
